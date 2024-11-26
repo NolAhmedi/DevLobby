@@ -25,23 +25,24 @@ Before you begin, make sure you have the following installed:
 ## Installation
 
 ### 1. Clone the repository
-```bash
+```
 git clone https://github.com/NolAhmedi/DevLobby.git
 cd DevLobby
 ```
 
 # Install both backend and frontend dependencies
+```
 npm install (in client folder)
 npm install (in app folder)
-
+```
 # 
-while in app folder, run "nodemon index.js"
+while in app folder, run ```"nodemon index.js"```
 
 Open another terminal, navigate to client and run the following commands:
 
-"npm run build"
+```"npm run build"```
 and then:
 
-"npm run start"
+```"npm run start"```
 
 afterwards, you will be able to run the app in your localhost!
